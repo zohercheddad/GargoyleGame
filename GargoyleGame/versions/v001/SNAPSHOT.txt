@@ -1,2 +1,0 @@
-2025-10-09 03:46:47 CEST
-Base stable obstacles+collisions
